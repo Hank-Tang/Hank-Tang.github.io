@@ -10,8 +10,10 @@ Hi! I am a third-year student majoring in Applied Artificial Intelligence at the
 
 ## Experience 
 - Undergraduate Research Assistant	March 2024 - Present
-  MedAI Lab, Department of Statistics and Actuarial Science, The University of Hong Kong
-  Advisor: Professor Lequan Yu
+
+  MedAI Lab, Department of Statistics and Actuarial Science, School of Computing and Data Science, The University of Hong Kong
+  
+  Advisor: Professor [Lequan Yu](https://yulequan.github.io)
 
 ## Projects
 
