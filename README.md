@@ -6,7 +6,7 @@ I love to discuss new ideas related to or beyond those topics and methods. Pleas
 
 I am fortunate to be guided by a number of great mentors whose words and experiences have helped me embark on this great journey in research. Particularly, Professor Lequan Yu and Mr. Fuying Wang have provided me with a lot of support. 
 
-[Email](mailto:hanktang.yh@gmail.com) / [CV](/assets/doc/Yihan Tang_Base.docx) / [LinkedIn](https://www.linkedin.com/in/yihan-tang-hank/) 
+[Email](mailto:hanktang.yh@gmail.com) / [CV](/assets/doc/Yihan Tang_Base.pdf) / [LinkedIn](https://www.linkedin.com/in/yihan-tang-hank/) 
 
 ## Education
 - BASc in Applied Artificial Intelligence, Expected May 2026
