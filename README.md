@@ -29,3 +29,8 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - Recipient of Summer Research Fellowship (SRF), The University of Hong Kong, 2024
 - Dean’s Honors List, Faculty of Science, The University of Hong Kong, 2023 - 2024
 - Undergraduate Exchange Scholarships for IHP at Stanford University,	2022 - 2023
+
+## Miscellaneous
+- I am a big fan of soccer, football, baseball and basketball. My favorite players include Matt Chapman (Chappy) and Jrue Holiday.
+- I enjoy going to gym and hiking.
+- I love both classical music and pop.
