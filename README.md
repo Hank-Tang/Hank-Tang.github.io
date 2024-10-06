@@ -38,6 +38,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - Data Visualization of MIMIC-III dataset
   
   [Report](/assets/doc/stat3622_report.pdf)
+
 ## Honors and Awards 
 - Recipient of Summer Research Fellowship (SRF), The University of Hong Kong, 2024
 - Dean’s Honors List, Faculty of Science, The University of Hong Kong, 2023 - 2024
