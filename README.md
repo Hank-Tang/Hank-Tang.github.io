@@ -26,7 +26,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 ## Research Projects
 - POCMP (Multi-model related)
 
-  Projected to be available in mid-October, 2024
+  Projected to be available in mid-October, 2024. To be submitted to NAACL 2025.
 - Rethinking EHR: Enhancing transformer-based models for reorganized tree-structured Electronic Health Records
 
   Projected to be avaiable in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
