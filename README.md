@@ -33,8 +33,10 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   
 ## Other Projects
 - CONTAG: Local employment of a tuned chatbot
+  
   [Presentation](/assets/doc/DESN9002_Presentation.pdf)
 - Data Visualization of MIMIC-III dataset
+  
   [Report](/assets/doc/stat3622_report.pdf)
 ## Honors and Awards 
 - Recipient of Summer Research Fellowship (SRF), The University of Hong Kong, 2024
