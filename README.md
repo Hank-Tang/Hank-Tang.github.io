@@ -32,7 +32,10 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   Projected to be avaiable in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
   
 ## Other Projects
-
+- CONTAG: Local employment of a tuned chatbot
+  [Presentation](/assets/doc/DESN9002_Presentation.pdf)
+- Data Visualization of MIMIC-III dataset
+  [Report](/assets/doc/stat3622_report.pdf)
 ## Honors and Awards 
 - Recipient of Summer Research Fellowship (SRF), The University of Hong Kong, 2024
 - Dean’s Honors List, Faculty of Science, The University of Hong Kong, 2023 - 2024
