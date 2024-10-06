@@ -6,7 +6,7 @@ I love to discuss new ideas related to or beyond those topics and methods. Pleas
 
 I am fortunate to be guided by a number of great mentors whose words and experiences have helped me embark on this great journey in research. Particularly, Professor Lequan Yu and Mr. Fuying Wang have provided me with a lot of support. 
 
-[Email](hanktang.yh@gmail.com) / [CV](/assets/doc/Yihan Tang_Base.docx) / [LinkedIn](https://www.linkedin.com/in/yihan-tang-hank/) 
+[Email](mailto:hanktang.yh@gmail.com) / [CV](/assets/doc/Yihan Tang_Base.docx) / [LinkedIn](https://www.linkedin.com/in/yihan-tang-hank/) 
 
 ## Education
 - BASc in Applied Artificial Intelligence, Expected May 2026
@@ -23,7 +23,15 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   
   Advisor: Professor [Lequan Yu](https://yulequan.github.io)
 
-## Projects
+## Research Projects
+- POCMP (Multi-model related)
+
+  Projected to be available in mid-October, 2024
+- Rethinking EHR: Enhancing transformer-based models for reorganized tree-structured Electronic Health Records
+
+  Projected to be avaiable in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
+  
+## Other Projects
 
 ## Honors and Awards 
 - Recipient of Summer Research Fellowship (SRF), The University of Hong Kong, 2024
