@@ -24,13 +24,14 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   Advisor: Professor [Lequan Yu](https://yulequan.github.io)
 
 ## Research Projects
-- POCMP (Multi-model related)
+- MTPD (Multi-model Electronic Health Records predictive model related)
 
   Projected to be available in mid-October, 2024. To be submitted to NAACL 2025.
-- Rethinking EHR: Enhancing transformer-based models for reorganized tree-structured Electronic Health Records
+- Rethinking EHR: Enhancing transformer-based models for graph-based Electronic Health Records
 
   Projected to be avaiable in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
-  
+
+  Note: Certain changes have been made to the project, which are projected to be updated on the website in mid-October or late-October.
 ## Other Projects
 - CONTAG: Local employment of a tuned chatbot
   
@@ -49,4 +50,4 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - I enjoy going to gym and hiking.
 - I love both classical music and pop.
 
-Last modified: 6 Oct, 2024
+Last modified: 14 Oct, 2024
