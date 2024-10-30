@@ -17,7 +17,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   Artificial Intelligence (CS221), Computer Organization (CS107), High-Performance Computing (ME344S)
 
 ## Experience 
-- Undergraduate Research Assistant	March 2024 - Present
+- Undergraduate Research Assistant, March 2024 - Present
 
   MedAI Lab, Department of Statistics and Actuarial Science, School of Computing and Data Science, The University of Hong Kong
   
