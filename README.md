@@ -1,6 +1,6 @@
-Hi! I am a third-year student majoring in Applied Artificial Intelligence at the University of Hong Kong (HKU). I will be at University of Illinois Urbana-Champaign during 2025 Spring.
+Hi! I am a third-year student majoring in Applied Artificial Intelligence at the University of Hong Kong (HKU). I will be at the University of Illinois Urbana-Champaign during 2025 Spring.
 
-I am interested in AI for Healthcare. I am currently focused on building more interpretable EHR (Electronic Health Records) models with clinical domain knowledge enhancement. I don't think that purely applying tuned-LLMs would bring us close to solving the question. I am working on graph-based and multimodal approaches. 
+I am interested in AI for Healthcare. I am currently focused on building more interpretable and robust EHR (Electronic Health Records) models with clinical domain knowledge enhancement. I don't think that purely applying tuned-LLMs would bring us close to solving the question. I am working on graph-based and multimodal approaches. 
 
 I love to discuss new ideas related to or beyond those topics and methods. Please email me to start a chat if you are interested.
 
@@ -32,6 +32,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   Projected to be avaiable in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
 
   Note: Certain changes have been made to the project, which are projected to be updated on the website in mid-October or late-October.
+
 ## Other Projects
 - CONTAG: Local employment of a tuned chatbot
   
