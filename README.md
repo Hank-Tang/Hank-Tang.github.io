@@ -24,7 +24,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   Advisor: Professor [Lequan Yu](https://yulequan.github.io)
 
 ## Research Projects
-- MTPD (Multi-model Electronic Health Records predictive model related)
+- CTPD: Cross-Modal Temporal Pattern Discovery for Enhanced Multimodal Electronic Health Records Analysis
 
   Submitted to NAACL 2025.
 - Rethinking EHR: Enhancing transformer-based models for graph-based Electronic Health Records
