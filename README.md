@@ -1,6 +1,6 @@
 Hi! I am a third-year student majoring in Applied Artificial Intelligence at the University of Hong Kong (HKU). 
 
-I am interested in applying AI algorithms in the field of AI for Healthcare. I have been working on Electronic Health Records (EHR) with Natural Language Processing (NLP) and Multimodal approaches. 
+I am interested in AI for Healthcare. I am currently focused on building more interpretable EHR (Electronic Health Records) models with clinical domain knowledge enhancement. I don't think that purely applying tuned-LLMs would bring us close to solving the question. I am working on graph-based and multimodal approaches. 
 
 I love to discuss new ideas related to or beyond those topics and methods. Please email me to start a chat if you are interested.
 
@@ -26,7 +26,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 ## Research Projects
 - MTPD (Multi-model Electronic Health Records predictive model related)
 
-  Projected to be available in mid-October, 2024. To be submitted to NAACL 2025.
+  Submitted to NAACL 2025.
 - Rethinking EHR: Enhancing transformer-based models for graph-based Electronic Health Records
 
   Projected to be avaiable in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
@@ -50,4 +50,4 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - I enjoy going to gym and hiking.
 - I love both classical music and pop.
 
-Last modified: 15 Oct, 2024
+Last modified: 30 Oct, 2024
