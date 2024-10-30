@@ -29,9 +29,9 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   Submitted to NAACL 2025.
 - Rethinking EHR: Enhancing transformer-based models for graph-based Electronic Health Records
 
-  Projected to be avaiable in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
+  Projected to be available in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
 
-  Note: Certain changes have been made to the project, which are projected to be updated on the website in mid-October or late-October.
+  Note: Certain changes have been made to the project, which are projected to be updated on the website in late-October.
 
 ## Other Projects
 - CONTAG: Local employment of a tuned chatbot
