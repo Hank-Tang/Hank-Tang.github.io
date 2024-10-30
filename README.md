@@ -1,4 +1,4 @@
-Hi! I am a third-year student majoring in Applied Artificial Intelligence at the University of Hong Kong (HKU). 
+Hi! I am a third-year student majoring in Applied Artificial Intelligence at the University of Hong Kong (HKU). I will be at University of Illinois Urbana-Champaign during 2025 Spring.
 
 I am interested in AI for Healthcare. I am currently focused on building more interpretable EHR (Electronic Health Records) models with clinical domain knowledge enhancement. I don't think that purely applying tuned-LLMs would bring us close to solving the question. I am working on graph-based and multimodal approaches. 
 
@@ -46,7 +46,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - Undergraduate Exchange Scholarships for IHP at Stanford University,	2022 - 2023
 
 ## Miscellaneous
-- I am a big fan of soccer, football, baseball and basketball. My favorite players include Matt Chapman (Chappy) and Jrue Holiday.
+- I am a big fan of soccer, football, baseball and basketball. My favorite players include Matt Chapman and Jrue Holiday.
 - I enjoy going to gym and hiking.
 - I love both classical music and pop.
 
