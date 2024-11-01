@@ -26,7 +26,8 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 ## Research Projects
 - CTPD: Cross-Modal Temporal Pattern Discovery for Enhanced Multimodal Electronic Health Records Analysis
 
-  Submitted to NAACL 2025.
+  Available on arxiv soon.
+
 - Rethinking EHR: Enhancing transformer-based models for graph-based Electronic Health Records
 
   Projected to be available in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
