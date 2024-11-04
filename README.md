@@ -52,4 +52,4 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - I enjoy going to gym and hiking.
 - I love both classical music and pop.
 
-Last modified: 30 Oct, 2024
+Last modified: 4 Nov, 2024
