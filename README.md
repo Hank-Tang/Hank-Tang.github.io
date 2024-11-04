@@ -26,7 +26,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 ## Research Projects
 - CTPD: Cross-Modal Temporal Pattern Discovery for Enhanced Multimodal Electronic Health Records Analysis
 
-  Available on arxiv soon.
+  [arxiv](https://arxiv.org/abs/2411.00696)
 
 - Rethinking EHR: Enhancing transformer-based models for graph-based Electronic Health Records
 
