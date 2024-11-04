@@ -28,11 +28,10 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 
   [arxiv](https://arxiv.org/abs/2411.00696)
 
-- Rethinking EHR: Enhancing transformer-based models for graph-based Electronic Health Records
+- Ontology Structure-Inspired Electronic Health Records Predictive model
 
-  Projected to be available in December, 2024. For preliminary information, please check out this [report](/assets/doc/Research Report_CV.pdf) written in September 2024.
-
-  Note: Certain changes have been made to the project, which are projected to be updated on the website in late-October.
+  Projected to be available in December, 2024. 
+  Keywords: Electronic Health Records (EHR), graph learning, LLM, Retrieval
 
 ## Other Projects
 - CONTAG: Local employment of a tuned chatbot
