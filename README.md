@@ -47,7 +47,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - Undergraduate Exchange Scholarships for IHP at Stanford University,	2022 - 2023
 
 ## Miscellaneous
-- I am a big fan of soccer, football, baseball and basketball. My favorite players include Matt Chapman and Jrue Holiday.
+- I am a big fan of football and baseball. My favorite players include Matt Chapman.
 - I enjoy going to gym and hiking.
 - I love both classical music and pop.
 
