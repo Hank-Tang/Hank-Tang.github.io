@@ -43,13 +43,13 @@ I am fortunate to be guided by a number of great mentors whose words and experie
   [Report](/assets/doc/stat3622_report.pdf)
 
 ## Honors and Awards 
+- Dean’s Honors List (top 1%), Faculty of Science, The University of Hong Kong, 2023 - 2024
 - Recipient of Summer Research Fellowship (SRF), The University of Hong Kong, 2024
-- Dean’s Honors List, Faculty of Science, The University of Hong Kong, 2023 - 2024
 - Undergraduate Exchange Scholarships for IHP at Stanford University,	2022 - 2023
 
 ## Miscellaneous
-- I am a big fan of football and baseball. My favorite players include Matt Chapman.
+- I am a big fan of baseball and Formula 1. My favorite players include Matt Chapman.
 - I enjoy going to gym and hiking.
 - I love both classical music and pop.
 
-Last modified: 4 Nov, 2024
+Last modified: 17 Nov, 2024
