@@ -48,8 +48,8 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - Undergraduate Exchange Scholarships for IHP at Stanford University,	2022 - 2023
 
 ## Miscellaneous
-- I am a big fan of baseball and Formula 1. My favorite players include Matt Chapman.
+- I am a big fan of baseball and Formula 1. My favorite athletes include Matt Chapman.
 - I enjoy going to gym and hiking.
-- I love both classical music and pop.
+- I love both classical and modern music. My Spotify 2024 top picks include Beethoven: Symphony No. 3 'Eroica' IV. Finale conducted by Herbert Von Karajan, Puccini: Turandot, Act III: Nessun dorma sung by Luciano Pavarotti, and Premier League anthem.
 
-Last modified: 17 Nov, 2024
+Last modified: 28 Dec, 2024
