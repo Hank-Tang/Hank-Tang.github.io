@@ -1,6 +1,6 @@
-Hi! I am a third-year undergraduate student majoring in Applied Artificial Intelligence at the University of Hong Kong (HKU). I will be at the University of Illinois Urbana-Champaign during 2025 Spring.
+Hi! I am a third-year undergraduate student majoring in Applied Artificial Intelligence. I am currently at the University of Illinois Urbana-Champaign on exchange. My home university is the University of Hong Kong.
 
-I am interested in AI for Healthcare. I am currently focused on building interpretable and robust EHR (Electronic Health Records) models with deep connection to clinical domain knowledge enhancement. I don't think that purely applying tuned-LLMs would bring us close to solving the question. I am working on graph-based and multimodal approaches. 
+I am interested in AI for Healthcare. I am currently focused on building interpretable and robust EHR (Electronic Health Records) models with deep connection to clinical domain knowledge enhancement. My current research efforts involve using Deep Learning, Graph Learning, Natural Language Processing, and Multimodal Learning. I don't think that purely applying tuned-LLMs to tabular data would bring us close to solving the question. 
 
 I love to discuss new ideas related to or beyond those topics and methods. Please email me to start a chat if you are interested.
 
