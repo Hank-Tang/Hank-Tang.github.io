@@ -11,7 +11,6 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 ## Education
 - BASc in Applied Artificial Intelligence, Expected May 2026
 
-  GPA: 3.91/4.30
 - International Honors Program (IHP), Stanford 2023 Summer Quarter, June 2023 - August 2023
 
   Artificial Intelligence (CS221), Computer Organization (CS107), High-Performance Computing (ME344S)
