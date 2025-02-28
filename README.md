@@ -52,4 +52,4 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - I enjoy going to gym and hiking.
 - I love both classical and modern music. My Spotify 2024 top picks include Beethoven: Symphony No. 3 'Eroica' IV. Finale conducted by Karajan, Puccini: Turandot, Act III: Nessun dorma sung by Pavarotti, and Premier League anthem.
 
-Last modified: 28 Dec, 2024
+Last modified: 28 Feb, 2025
