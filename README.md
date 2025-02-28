@@ -27,6 +27,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - CTPD: Cross-Modal Temporal Pattern Discovery for Enhanced Multimodal Electronic Health Records Analysis
 
   [preprint](https://arxiv.org/abs/2411.00696)
+  [documentation and tutorial](/assets/doc/CTPD_documentation.docx) (Under construction)
 
 - Ontology Structure-Inspired Electronic Health Records Predictive model
 
