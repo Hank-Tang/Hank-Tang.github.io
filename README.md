@@ -31,7 +31,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 
 - Ontology Structure-Inspired Electronic Health Records Predictive model
 
-  Projected to be available in February 2025.
+  Projected to be available in Spring 2025.
   
   Keywords: Electronic Health Records (EHR), graph learning, LLM, Retrieval
 
