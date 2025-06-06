@@ -1,38 +1,46 @@
-Hi! I am a third-year undergraduate student majoring in Applied Artificial Intelligence. I am currently at the University of Illinois Urbana-Champaign on exchange. My home university is the University of Hong Kong.
+Hi! I am currently a research intern at Northwestern University Feinberg School of Medicine. I work for Dr. Deborah Winter. I am a junior-year undergraduate student majoring in Applied Artificial Intelligence. My home university is the University of Hong Kong.
 
-I am interested in AI for Healthcare. I am currently focused on building interpretable and robust EHR (Electronic Health Records) models with deep connection to clinical domain knowledge enhancement. My current research efforts involve using Deep Learning, Graph Learning, Natural Language Processing, and Multimodal Learning. I don't think that purely applying tuned-LLMs to tabular data would bring us close to solving the question. 
+I am interested in AI for Healthcare. I am currently focused on building interpretable and robust computational genomic and EHR (Electronic Health Records) models with deep connection to clinical domain knowledge enhancement. My current research efforts involve using Deep Learning, Graph Learning, Natural Language Processing, and Multimodal Learning. 
 
-I love to discuss new ideas related to or beyond those topics and methods. Please email me to start a chat if you are interested.
+I love to discuss new ideas related to or beyond those topics and methods. Please email me or message me via LinkedIn to start a chat if you are interested.
 
-I am fortunate to be guided by a number of great mentors whose words and experiences have helped me embark on this great journey in research. Particularly, Professor Lequan Yu and Mr. Fuying Wang have provided me with a lot of support. 
-
+I am fortunate to be guided by a number of great mentors whose words and experiences have helped me embark on this great journey in research. I am grateful for Dr. Deborah Winter, Dr. Lequan Yu, and Mr. Fuying Wang.
 [Email](mailto:hanktang.yh@gmail.com) / [CV](/assets/doc/Yihan Tang_Base.pdf) / [LinkedIn](https://www.linkedin.com/in/yihan-tang-hank/) 
 
 ## Education
-- BASc in Applied Artificial Intelligence, Expected May 2026
+- BASc in Applied Artificial Intelligence, the University of Hong Kong, Expected May 2026
 
-- International Honors Program (IHP), Stanford 2023 Summer Quarter, June 2023 - August 2023
+- International Honors Program (Stanford Summer Quarter), Stanford University, June 2023 - August 2023
 
   Artificial Intelligence (CS221), Computer Organization (CS107), High-Performance Computing (ME344S)
 
+- Exchange studies, University of Illinois Urbana-Champaign, January 2025 - May 2025
+
+
 ## Experience 
-- Undergraduate Research Assistant, March 2024 - Present
+- Research Intern, April 2025 - Now
+
+  Winter Lab, Division of Rheumatology, Northwestern Feinberg School of Medicine
+  
+  Supervisor: Dr. [Deborah Winter](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=35765)
+  
+- Undergraduate Research Assistant, April 2024 - April 2025
 
   MedAI Lab, Department of Statistics and Actuarial Science, School of Computing and Data Science, The University of Hong Kong
   
-  Advisor: Professor [Lequan Yu](https://yulequan.github.io)
+  Supervisor: Dr. [Lequan Yu](https://yulequan.github.io)
 
 ## Research Projects
 - CTPD: Cross-Modal Temporal Pattern Discovery for Enhanced Multimodal Electronic Health Records Analysis
 
-  [preprint](https://arxiv.org/abs/2411.00696)
+  [2025 ACL Findings](https://arxiv.org/abs/2411.00696)
   
   [documentation and tutorial](/assets/doc/CTPD_documentation.pdf) (Under construction)
 
 - Ontology Structure-Inspired Electronic Health Records Predictive model
 
-  Projected to be available in Spring 2025.
-  
+  In progress
+    
   Keywords: Electronic Health Records (EHR), graph learning, LLM, Retrieval
 
 ## Other Projects
@@ -51,6 +59,6 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 ## Miscellaneous
 - I am a big fan of baseball and Formula 1. My favorite athletes include Matt Chapman.
 - I enjoy going to gym and hiking.
-- I love both classical and modern music. My Spotify 2024 top picks include Beethoven: Symphony No. 3 'Eroica' IV. Finale conducted by Karajan, Ravel: Bolero, Gershwin: Rhapsody in Blue conducted by Bernstein, and Premier League anthem.
+- I love both classical and modern music. My Spotify top picks include Shostakovich: Symphony No. 5 in D Minor (Leonard Bernstein, New York Philharmonic), Johann Strauss II: Die Fledermaus Overture (Carlos Kleiber, Bavarian State Orchestra), Gershwin: Rhapsody in Blue (Leonard Bernstein, Columbia Symphony Orchestra), and Premier League anthem.
 
-Last modified: 3 March, 2025
+Last modified: 6 June, 2025
