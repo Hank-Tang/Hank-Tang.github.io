@@ -5,7 +5,7 @@ I am interested in AI for Healthcare. I am currently focused on building interpr
 I love to discuss new ideas related to or beyond those topics and methods. Please email me or message me via LinkedIn to start a chat if you are interested.
 
 I am fortunate to be guided by a number of great mentors whose words and experiences have helped me embark on this great journey in research. I am grateful for Dr. Deborah Winter, Dr. Lequan Yu, and Mr. Fuying Wang.
-[Email](mailto:hanktang.yh@gmail.com) / [CV](/assets/doc/Yihan Tang_Base.pdf) / [LinkedIn](https://www.linkedin.com/in/yihan-tang-hank/) 
+[Email](mailto:hanktang.yh@gmail.com) / [CV](/assets/doc/Yihan Hank Tang_CV_Research_v4.pdf) / [LinkedIn](https://www.linkedin.com/in/yihan-tang-hank/) 
 
 ## Education
 - BASc in Applied Artificial Intelligence, the University of Hong Kong, Expected May 2026
