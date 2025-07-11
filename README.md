@@ -66,4 +66,4 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - I enjoy going to gym and hiking.
 - I love both classical and modern music. My Spotify top picks include Shostakovich: Symphony No. 5 in D Minor (Leonard Bernstein, New York Philharmonic), Johann Strauss II: Die Fledermaus Overture (Carlos Kleiber, Bavarian State Orchestra), Gershwin: Rhapsody in Blue (Leonard Bernstein, Columbia Symphony Orchestra), and Premier League anthem.
 
-Last modified: 6 June, 2025
+Last modified: 11 July, 2025
