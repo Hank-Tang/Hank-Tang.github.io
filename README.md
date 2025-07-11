@@ -46,7 +46,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 ## Other Projects and Involvements
 - Reviewer of ICCV 2025 Workshop on Computer Vision for Automated Medical Diagnosis
 
-  [ICCV CVAMD](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CVAMD&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
+  [2025 ICCV CVAMD](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CVAMD&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
   
 - CONTAG: Local employment of a tuned chatbot
   
