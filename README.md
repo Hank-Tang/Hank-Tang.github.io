@@ -43,7 +43,11 @@ I am fortunate to be guided by a number of great mentors whose words and experie
     
   Keywords: Electronic Health Records (EHR), graph learning, LLM, Retrieval
 
-## Other Projects
+## Other Projects and Involvements
+- Reviewer of ICCV 2025 Workshop on Computer Vision for Automated Medical Diagnosis
+
+  [ICCV CVAMD](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/CVAMD&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
+  
 - CONTAG: Local employment of a tuned chatbot
   
   [Presentation](/assets/doc/DESN9002_Presentation.pdf)
@@ -55,6 +59,7 @@ I am fortunate to be guided by a number of great mentors whose words and experie
 - Dean’s Honors List (top 1%), Faculty of Science, The University of Hong Kong, 2023 - 2024
 - Recipient of Summer Research Fellowship (SRF), The University of Hong Kong, 2024
 - Undergraduate Exchange Scholarships for IHP at Stanford University,	2022 - 2023
+
 
 ## Miscellaneous
 - I am a big fan of baseball and Formula 1. My favorite athletes include Matt Chapman.
